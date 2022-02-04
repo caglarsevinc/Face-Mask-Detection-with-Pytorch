@@ -7,7 +7,9 @@ Images used in the dataset include images of masked and unmasked people. The dat
 2863 masked
 1743 unmasked
 You can visit https://github.com/cabani/MaskedFace-Net for the dataset
+
 <img width="350" alt="131366700-8b671931-148f-4c2d-bd49-ce4760bf0a82" src="https://user-images.githubusercontent.com/45899874/152232000-89e3ba1c-f7a0-4f13-adff-a0406f6cf7f2.png">
+
 ## 1) Import Operations and Loading of Required Libraries
 ## 2) Loading the Data Set
 ## 2.1) Determining Image Size and Label Label Values
