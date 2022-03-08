@@ -1,4 +1,8 @@
 # Face-Mask-Detection-with-Pytorch
+
+![Face Mask Bear Poster](https://user-images.githubusercontent.com/45899874/157345720-e5d60681-3bb8-4e0b-93c1-5ffb20387a95.png)
+
+
 The spread of the COVID-19 Pandemic Disease has created the world's most significant global health crisis that has had a profound impact on the way we perceive our world and our daily lives. Many countries have created their own rules regarding face masks to control the spread of the virus pandemic, but many people refuse to abide by the government rules. The police are struggling to catch these people and they can't find each and every one of them. Face detection and object detection technology will help detect people not wearing masks and help police check them. Besides mask detection, there are various applications for object and face detection models in different real-time areas such as driverless car, crime detection, license plate detection. In this study, we will be implementing the Mask Detection Method project with Convolutional Neural Networks (CNN), which is frequently used in Deep Learning algorithms.
 ## Our Goal
 Our goal in this project is to accurately identify masked and unmasked human images in the dataset.
